@@ -131,9 +131,9 @@ h2{
 }
 
 .book{
-    position: relative;
-    left: 40vw;
-    top: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
 }
 button {
     width: 320px;
